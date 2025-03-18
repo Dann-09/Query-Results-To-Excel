@@ -1,0 +1,9 @@
+{
+    "db_type": "postgres",
+    "host":"",
+    "port":5432,
+    "user":"",
+    "password":"",
+    "database":"",
+    "databases":[""]
+}
