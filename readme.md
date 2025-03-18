@@ -1,4 +1,4 @@
-# query_result_to_sheets
+# Query_Result_To_Excel
 
 **Descrição:**
 
